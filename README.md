@@ -1,2 +1,2 @@
-# TabernacleOS
+# TraceOS
 Basic OS project
